@@ -1,2 +1,2 @@
 # **Forca**
-## Projeto desenvolvido durante o primeiro estágio do curso de Ruby
+## Projeto desenvolvido durante o segundo estágio do curso de Ruby

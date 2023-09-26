@@ -1,0 +1,13 @@
+dicionario
+cachorro
+gato
+cavalo
+futebol
+volei
+basquete
+desenvolvedor
+programador
+contador
+barbie
+interestelar
+harry potter
